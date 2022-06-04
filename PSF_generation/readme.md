@@ -6,7 +6,11 @@
 
 2. transfer the PSF data in excel to matlab file
 ```
-PSF_data_transfer.m
+open Zemax-Programming-Interactive Extension
+```
+
+```
+run PSF_data_transfer_kenvin_lastest.m
 ```
 
 3. complete the coherent superposition of PSFs in different wavelength, and reunion the seperate PSFs according to the wave distribution and lens shading
